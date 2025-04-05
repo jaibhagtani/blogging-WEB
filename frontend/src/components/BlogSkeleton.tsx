@@ -1,4 +1,3 @@
-import { Avatar } from "./BlogCard"
 
 
 export const BlogSkeleton = () => {
